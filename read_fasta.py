@@ -1,5 +1,6 @@
 import sys
 
+# another test comment
 # wow another comment
 def read_fasta(filename):
     """Reads a FASTA sequence from a file and returns it"""
